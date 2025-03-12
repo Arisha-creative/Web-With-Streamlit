@@ -1,4 +1,4 @@
 streamlit
 pandas
-pint
+pint==0.23
 openpyxl
