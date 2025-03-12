@@ -2,3 +2,4 @@ streamlit
 pandas
 pint==0.23
 openpyxl
+UnitRegistry
